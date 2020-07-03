@@ -53,12 +53,9 @@ minima:
 # - about.md
 
 # Build settings
-<<<<<<< HEAD
 theme: minima
 
-=======
-theme: jekyll-theme-minimal
->>>>>>> 69eab550da4725d2d8b2d4a231afc51a5c438aa4
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
